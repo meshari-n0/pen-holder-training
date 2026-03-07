@@ -15,3 +15,7 @@ This design can be used as a simple desk pen holder to organize pens and small t
 
 ## Measurement Tools Used
 The dimensions were measured using a ruler and then defined precisely in Onshape using the Dimension tool.
+
+## Design Preview
+
+<img width="495" height="566" alt="Screenshot training-shape" src="https://github.com/user-attachments/assets/179e3375-e60d-4f7a-9ac8-93b1c35d4d99" />
