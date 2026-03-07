@@ -18,4 +18,4 @@ The dimensions were measured using a ruler and then defined precisely in Onshape
 
 ## Design Preview
 
-<img width="495" height="566" alt="Screenshot training-shape" src="https://github.com/user-attachments/assets/179e3375-e60d-4f7a-9ac8-93b1c35d4d99" />
+<img width="827" height="458" alt="Screenshot pen holder" src="https://github.com/user-attachments/assets/76405165-3f2a-4053-94db-2c854c30df7e" />
